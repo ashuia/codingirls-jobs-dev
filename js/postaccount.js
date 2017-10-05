@@ -1,4 +1,4 @@
-﻿let baseHost='http://139.199.185.146:8091';
+﻿let baseHost='http://139.199.185.146:8092';
 function postInfo() {
     let username = $("input[name='registerusername']").val(); //用户名
     let password = $("input[name='registerpassword']").val(); //密码
